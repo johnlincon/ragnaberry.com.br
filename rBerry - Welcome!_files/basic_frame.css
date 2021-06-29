@@ -1,0 +1,24 @@
+body{
+  margin-top:       0px;
+  font-family:      verdana;
+  font-size:        8pt;
+  color:            #c51162;
+  scrollbar-base-color:       #c51162;
+  scrollbar-arrow-color:      #c51162;
+  scrollbar-DarkShadow-Color: #c51162;
+}
+
+a {
+  color:            #c51162;
+  text-decoration: underline;
+}
+
+a:visited {
+  color:            #c51162;
+  text-decoration: underline;
+}
+
+a:hover {
+  color:            #c51162;
+  text-decoration: underline;
+}

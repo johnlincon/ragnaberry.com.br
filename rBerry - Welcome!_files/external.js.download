@@ -1,0 +1,6 @@
+// Created: 10-13-05 00:18:55 by Heretushi
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+  function changepic(img_src) {
+    document['title_bar_top'].src='images/nbt_' + img_src + '.gif';
+    document['title_bar_bottom'].src='images/nbb_' + img_src + '.gif';
+  }

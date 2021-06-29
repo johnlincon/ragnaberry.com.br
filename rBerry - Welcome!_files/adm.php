@@ -1,0 +1,13 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>News</title>
+    
+    <meta name="generator" content="syn">
+  	<!-- Feuille de style -->
+	  <link rel="stylesheet" type="text/css" href="./basic_frame.css" title="heRO Server News">
+ </head>
+  <body>
+<b>Nossa Equipe</b><br>By [ADM] Linc | Postado : sexta-feira, 25 Jun 2021 14:46:20 UFT-8<br><img src="./newsseparator.gif" alt="........"><br><br><img src="./fathersday2021.png">
+[ADM] Linc é o responsável, atualmente, pela manutenção geral do servidor, website e tudo relacionado ao Ragnaberry.
+Discord: Linc#6099<br><br><br><b>
+ 
+<div id="icpbravoaccess_loaded"></div></body></html>

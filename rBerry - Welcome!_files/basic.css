@@ -1,0 +1,141 @@
+body{
+  background-image: url("images/bg_rberry.png");
+  background-repeat: no-repeat;
+  font-family:      verdana;
+  background-attachment: fixed;
+  background-size: auto;
+  font-size:        14px;
+  color:            #c51162;
+}
+
+a {
+  color:            #c51162;
+  text-decoration:  none;
+}
+
+a:visited {
+  color:            #c51162;
+}
+
+a:hover {
+  background-color: #64dd17;
+}
+
+a.donation:hover {
+  background-color: white;
+}
+
+img {
+  border:           0px;
+}
+
+img.donate_img {
+/*  margin-right:     17px;
+  margin-bottom:    -2px;*/
+}
+
+#horizon {
+  position:         absolute;
+  text-align:       center;
+  top:              50%;
+  left:             0px;
+  width:            100%;
+	overflow:         visible;
+	visibility:       visible;
+	display:          block;
+}
+
+#master {
+  position:         absolute;
+  /* 576/2 */
+  top:              -285px;
+  /* 679/2 */
+  margin-left:      -340px;
+  width:            678px;
+  left:             50%;
+  visibility:       visible;
+}
+
+#principal {
+  width:            677px;
+	margin-left:	    auto;
+	margin-right:     auto;
+  border-left:      1px solid #fd80ab;
+  border-right:      1px solid #fd80ab;
+  background:	      #FFFFFF url("images/rightshadowpattern.jpg") repeat-y right;
+  padding-top:      15px;
+  padding-bottom:   15px;
+}
+
+#banniere {
+  height:           134px;
+  width:            679px;
+	margin-left:	    auto;
+	margin-right:     auto;
+  background-image:	url("images/header.png");
+}
+
+#menu {
+  float:            left;
+  margin-left:      5px;
+  width:            150px;
+  text-align:       right;
+  padding-top:      4px;
+}
+
+#nouvelle {
+  text-align:       justify;
+	padding-top:      0px;
+  padding-right:    0px;
+	padding-left:	    188px;
+  background-image:	url("images/sidebarspattern.gif");
+  background:       no-repeat;
+}
+
+#copyright {
+  height:           57px;
+  width:            679px;
+	margin-left:	    auto;
+	margin-right:     auto;
+  background-image:	url("images/footer.png");
+}
+
+#status_table {
+  width:            100%;
+  text-align:       center;
+}
+
+.links {
+  width:            100%;
+  text-align:       right;
+}
+
+.status_on {
+  color: #00FF00;
+  padding-left:     10px;
+  text-align:       left;
+}
+
+.status_off {
+  color: #FF0000;
+  padding-left:     10px;
+  text-align:       left;
+}
+
+td.right {
+  text-align:       right;
+}
+
+#news_table {
+  width:            466px;
+}
+
+td.texte {
+  vertical-align:   top;
+  padding-left:     10px;
+}
+
+#iframe {
+  width:            440px;
+  height:           310px;
+}
